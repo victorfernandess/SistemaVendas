@@ -18,6 +18,8 @@ namespace SistemaVendedores.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
+            ViewData["email"] = "victorfernandess200@gmail.com";
+            ViewData["contato"] = "99999999999";
 
             return View();
         }
@@ -25,6 +27,7 @@ namespace SistemaVendedores.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
+            
 
             return View();
         }
