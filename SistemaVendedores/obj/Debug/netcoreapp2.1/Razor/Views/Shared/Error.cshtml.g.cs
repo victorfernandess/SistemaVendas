@@ -19,13 +19,13 @@ using SistemaVendedores;
 #line default
 #line hidden
 #line 2 "C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\Views\_ViewImports.cshtml"
-using SistemaVendedores.Models;
+using SistemaVendedores.Models.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"37bcca0a9dc71014de5b3c022e24e10ff2549a09", @"/Views/_ViewImports.cshtml")]
-    public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
+    public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<SistemaVendedores.Models.ViewModels.ErrorViewModel>
     {
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
@@ -85,7 +85,7 @@ using SistemaVendedores.Models;
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<ErrorViewModel> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<SistemaVendedores.Models.ViewModels.ErrorViewModel> Html { get; private set; }
     }
 }
 #pragma warning restore 1591
