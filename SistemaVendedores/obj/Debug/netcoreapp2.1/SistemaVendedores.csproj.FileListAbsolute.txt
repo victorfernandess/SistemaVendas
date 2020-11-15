@@ -1,6 +1,5 @@
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\bin\Debug\netcoreapp2.1\SistemaVendedores.deps.json
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\bin\Debug\netcoreapp2.1\SistemaVendedores.runtimeconfig.json
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\bin\Debug\netcoreapp2.1\SistemaVendedores.runtimeconfig.dev.json
@@ -34,4 +33,3 @@ C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\obj\Debug\netcoreapp2.1\SistemaVendedores.genruntimeconfig.cache
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\obj\Debug\netcoreapp2.1\SistemaVendedores.csproj.CopyComplete
 C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\obj\Debug\netcoreapp2.1\SistemaVendedores.csproj.CoreCompileInputs.cache
-C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

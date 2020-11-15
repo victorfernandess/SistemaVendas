@@ -19,12 +19,12 @@ using SistemaVendedores;
 #line default
 #line hidden
 #line 2 "C:\Users\Victor\Desktop\Programação O.Obj\Secao18 - Projeto\SistemaVendedores\SistemaVendedores\SistemaVendedores\Views\_ViewImports.cshtml"
-using SistemaVendedores.Models;
+using SistemaVendedores.Models.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b93df4061ff384cf01ca37cf92dff41c251f235f", @"/Views/Home/Contact.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"37bcca0a9dc71014de5b3c022e24e10ff2549a09", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"bb24e030fdbacde25b54cf353c6efab0314a80fc", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Contact : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
