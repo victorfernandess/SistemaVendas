@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SistemaVendedores.Models.ViewModels;
+using Microsoft.EntityFrameworkCore;
+using SistemaVendedores.Data;
 
 namespace SistemaVendedores
 {
@@ -34,6 +36,9 @@ namespace SistemaVendedores
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddDbContext<SistemaVendedoresContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("SistemaVendedoresContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
